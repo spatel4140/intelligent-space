@@ -1,0 +1,4 @@
+adafruit-io
+RPi.GPIO
+python-dateutil
+git+https://github.com/adafruit/Adafruit_Python_DHT.git#egg=Adafruit_Python_DHT
